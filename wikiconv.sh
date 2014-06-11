@@ -1,5 +1,6 @@
 #!/bin/sh
-
+# euccnv2utf8
+# pukiwiki files 
 for f in `ls *.txt`
 do
     iconv -f EUC -t UTF8 < $f > tmp.txt
