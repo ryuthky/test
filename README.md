@@ -1,4 +1,5 @@
 # test
+<<<<<<< HEAD
 ====
 <<<<<<< HEAD
 # pull request
@@ -6,6 +7,9 @@
 # git push
 # git status
 =======
+=======
+----
+>>>>>>> 4c86cc372af9bf0d3769adeeb29ce9dc0e9e85e0
 ### pull request
 ### git merge
 ### git push
